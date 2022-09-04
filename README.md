@@ -1,0 +1,2 @@
+Bookshelf API
+Dicoding Back-end Beginner Course Submission,semoga berhasil pusing banget min,udah mah pake laptop asus E202s(ram 2gb,intel celeron)jadinya lemot banget buka postman aja 11 menit,cape banget,susah ngerti pula materinya.semoga sukses semoga dapet jodoh.
